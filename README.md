@@ -1,6 +1,6 @@
 # Trustful Reviews
 This is a simple machine learning project that correlates whether good reviews result in good rating or vice versa.
-Using the amazon product reviews from Electronics category, the application trains the segmentation of review texts using naive bayes model with 0.9+ accuracy and use that model for prediction of reviews for each product._
+Using the amazon product reviews from Electronics category, the application trains the segmentation of review texts using naive bayes model with 0.9+ accuracy and use that model for prediction of reviews for each product.
 
 For the customer review dataset, it was sorted based on the product name and for each review in product, segmentation was performed using trained naive bayes model, and average rating and review segmentation were calculated. Two data were plotted using scatter plot to visualize the correlation on jupyter notebook.
 
